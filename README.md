@@ -43,6 +43,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 # OUTPUT:
 ![alt text](<Screenshot 2024-11-27 090841.png>)
+![Screenshot_2024-11-20_162048 1](https://github.com/user-attachments/assets/29b647d1-f301-4297-8c10-d94e5d258f8a)
+
 
 
 # RESULT
